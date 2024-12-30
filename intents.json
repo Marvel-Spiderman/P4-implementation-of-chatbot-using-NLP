@@ -3347,4 +3347,17 @@
             "Archaeologists and historians continue to unearth relics that shed light on human history and civilization."
         ]
     }
+    {
+        
+        "tag": "Breakfast",
+        "patterns": [
+            "what should i eat in Breakfast",
+            "what's the menue for healthy breakfast ",
+            "Suggest me a good breakfast"
+        ],
+        "responses": [
+            "you  can have Eggs, toast, oatmeal, pancakes, yogurt, smoothie, fruit salad, cereal, bagels, and coffee.", 
+            "You can have Bacon, scrambled eggs, avocado toast, waffles, muffins, croissants, granola, pancakes, fruit, and tea.",
+        ]
+    }
 ]
